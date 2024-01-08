@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matehunaa&label=Profile%20views&color=0e75b6&style=flat" alt="matehunaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matehunaa" alt="matehunaa" /></a> </p>
-
 - 🔭 I’m currently working on **Elysium Roleplay**
 
 - 🌱 I’m currently learning **DSharpPlus, FivemLua**
