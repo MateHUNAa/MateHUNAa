@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm MateHUN</h1>
+<h1 align="center">Hi 👋, I'm MateHUN
+ <img align="right"src="https://komarev.com/ghpvc/?username=matehunaa&label=Profile%20views&color=0e75b6&style=flat" alt="matehunaa" /> 
+</h1>
 <h3 align="center">
 <p align="left">
     Junior developer from hungary. I interest the web technologies and game development.
-    <img align="right"src="https://komarev.com/ghpvc/?username=matehunaa&label=Profile%20views&color=0e75b6&style=flat" alt="matehunaa" /> 
 </p>
 </h3>
 
