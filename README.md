@@ -39,13 +39,15 @@
 
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-
+<p align="center" >
 - 🔭 I’m currently working on **Elysium Roleplay**
-
+</p>
+<p align="center" >
 - 🌱 I’m currently learning **DSharpPlus, FivemLua**
-
+    </p>
+<p align="center" >
 - 📫 How to reach me **dotscriptsbusiness@gmail.com**
-
+    </p>
+<p align="center" >
 - ⚡ Fun fact **I think im Funny**
 </p>
