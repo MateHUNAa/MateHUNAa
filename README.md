@@ -5,17 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matehunaa&label=Profile%20views&color=0e75b6&style=flat" alt="matehunaa" /> </p>
 
-- 🔭 I’m currently working on **Elysium Roleplay**
 
-- 🌱 I’m currently learning **DSharpPlus, FivemLua**
 
-- 📫 How to reach me **dotscriptsbusiness@gmail.com**
-
-- ⚡ Fun fact **I think im Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h4 align="center">I usually use these: </h4>
 <p align="center">
@@ -40,8 +31,21 @@
 <h4 align="center">Statistics</h4>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CsokiHUN&hide=html,css&layout=compact&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateHUNAa&hide=html,css&layout=compact&theme=dark" />
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CsokiHUN&layout=compact&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MateHUNAa&layout=compact&theme=dark" />
+</p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+- 🔭 I’m currently working on **Elysium Roleplay**
+
+- 🌱 I’m currently learning **DSharpPlus, FivemLua**
+
+- 📫 How to reach me **dotscriptsbusiness@gmail.com**
+
+- ⚡ Fun fact **I think im Funny**
 </p>
