@@ -33,9 +33,12 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateHUNAa&hide=html,css&layout=compact&theme=dark" />
 </p>
+
+<!--
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MateHUNAa&layout=compact&theme=dark" />
 </p>
+-->
 
 
 <h3 align="center">Infos:</h3>
