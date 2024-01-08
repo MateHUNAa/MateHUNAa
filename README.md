@@ -40,14 +40,14 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
-- 🔭 I’m currently working on **Elysium Roleplay**
+ 🔭 I’m currently working on <bold>Elysium Roleplay</bold>
 </p>
 <p align="center" >
-- 🌱 I’m currently learning **DSharpPlus, FivemLua**
+ 🌱 I’m currently learning <bold>DSharpPlus, FivemLua</bold>
     </p>
 <p align="center" >
-- 📫 How to reach me **dotscriptsbusiness@gmail.com**
+ 📫 How to reach me <bold>dotscriptsbusiness@gmail.com</bold>
     </p>
 <p align="center" >
-- ⚡ Fun fact **I think im Funny**
+⚡ Fun fact <bold>I think im Funny****
 </p>
