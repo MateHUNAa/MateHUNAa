@@ -38,16 +38,16 @@
 </p>
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Infos:</h3>
 <p align="center" >
- 🔭 I’m currently working on <bold>Elysium Roleplay</bold>
+ 🔭 I’m currently working on <b>Elysium Roleplay</b>
 </p>
 <p align="center" >
- 🌱 I’m currently learning <bold>DSharpPlus, FivemLua</bold>
+ 🌱 I’m currently learning <b>DSharpPlus, FivemLua</b>
     </p>
 <p align="center" >
- 📫 How to reach me <bold>dotscriptsbusiness@gmail.com</bold>
+ 📫 How to reach me <b>dotscriptsbusiness@gmail.com</b>
     </p>
 <p align="center" >
-⚡ Fun fact <bold>I think im Funny</bold>
+⚡ Fun fact <b>I think im Funny</b>
 </p>
