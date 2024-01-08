@@ -49,5 +49,5 @@
  📫 How to reach me <bold>dotscriptsbusiness@gmail.com</bold>
     </p>
 <p align="center" >
-⚡ Fun fact <bold>I think im Funny****
+⚡ Fun fact <bold>I think im Funny</bold>
 </p>
