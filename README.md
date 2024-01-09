@@ -2,7 +2,7 @@
 </h1>
 <h3 align="center">
 <p align="left">
-    Junior developer from hungary. I interest the web technologies and game development.
+    Junior developer. I interest the game development and Back-End development.
 </p>
 </h3>
 
