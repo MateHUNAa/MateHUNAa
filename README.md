@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MateHUN
 </h1>
 <h3 align="center">
-<p align="left">
+<p align="center">
     Junior developer. I interest the game development and Back-End development.
 </p>
 </h3>
