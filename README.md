@@ -45,10 +45,10 @@
 
 <h3 align="center">Infos:</h3>
 <p align="center" >
- 🔭 I’m currently working on <b>Elysium Roleplay</b>
+ 🔭 I’m currently working on <b>nothing :D</b>
 </p>
 <p align="center" >
- 🌱 I’m currently learning <b>DSharpPlus, FivemLua</b>
+ 🌱 I’m currently learning <b>C#</b>
     </p>
 <p align="center" >
  📫 How to reach me <b>dotscriptsbusiness@gmail.com</b>
