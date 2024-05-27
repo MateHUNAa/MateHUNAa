@@ -46,6 +46,7 @@
 <h3 align="center">Infos:</h3>
 <p align="center" >
  🔭 I’m currently working on <b>[Rime DM](https://discord.gg/your-invite-code)</b>
+    <a href="https://discord.gg/rimedm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rimedm" height="30" width="40" /></a>
 </p>
 <p align="center" >
  🌱 I’m currently learning <b>Vue Framework</b>
