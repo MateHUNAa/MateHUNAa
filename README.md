@@ -45,7 +45,7 @@
 
 <h3 align="center">Infos:</h3>
 <p align="center" >
- 🔭 I’m currently working on <b>Rime DM/b>
+ 🔭 I’m currently working on <b>Rime DM</b>
 </p>
       [Discord Invite](https://discord.com/rimedm)
 <p align="center" >
