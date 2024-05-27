@@ -46,8 +46,8 @@
 <h3 align="center">Infos:</h3>
 <p align="center" >
  🔭 I’m currently working on <b>Rime DM/b>
-     [Discord Invite](https://discord.com/rimedm)
 </p>
+      [Discord Invite](https://discord.com/rimedm)
 <p align="center" >
  🌱 I’m currently learning <b>Vue Framework</b>
     </p>
