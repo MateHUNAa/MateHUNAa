@@ -45,14 +45,15 @@
 
 <h3 align="center">Infos:</h3>
 <p align="center" >
- 🔭 I’m currently working on <b>nothing :D</b>
+ 🔭 I’m currently working on <b>Rime DM/b>
+     [Discord Invite](https://discord.com/rimedm)
 </p>
 <p align="center" >
- 🌱 I’m currently learning <b>C#</b>
+ 🌱 I’m currently learning <b>Vue Framework</b>
     </p>
 <p align="center" >
  📫 How to reach me <b>dotscriptsbusiness@gmail.com</b>
     </p>
 <p align="center" >
-⚡ Fun fact <b>I think im Funny</b>
+⚡ Fun fact <b>I think i knew Database</b>
 </p>
