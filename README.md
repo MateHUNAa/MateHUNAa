@@ -45,15 +45,9 @@
 
 <h3 align="center">Infos:</h3>
 <p align="center" >
- 🔭 I’m currently working on <b>Outfive RP</b>
+ 🔭 I’m currently working on <b>NO PROJECT</b>
     <a href="https://discord.gg/rimedm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rimedm" height="30" width="40" /></a>
 </p>
 <p align="center" >
- 🌱 I’m currently learning <b>Vue Framework</b>
-    </p>
-<p align="center" >
- 📫 How to reach me <b>dotscriptsbusiness@gmail.com</b>
-    </p>
-<p align="center" >
-⚡ Fun fact <b>I think i knew Database</b>
+ 📫 How to reach me Discord:<b>_matehun</b>
 </p>
