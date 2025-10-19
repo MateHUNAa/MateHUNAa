@@ -42,7 +42,7 @@
 <h3 align="center">Infos:</h3>
 <p align="center" >
  🔭 I’m currently working on <b>NO PROJECT</b>
-    <a href="https://discord.gg/rimedm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rimedm" height="30" width="40" /></a>
+    <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rimedm" height="30" width="40" /></a>
 </p>
 <p align="center" >
  📫 How to reach me Discord:<b>_matehun</b>
